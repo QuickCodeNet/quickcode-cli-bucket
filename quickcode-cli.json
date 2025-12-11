@@ -6,11 +6,11 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/QuickCodeNet/quickcode.cli/releases/download/v1.0.42/quickcode-cli-win-x64-v1.0.42.zip",
-      "hash": "PLACEHOLDER_X64_SHA256"
+      "hash": "4a7c176efdbe700609c80c4da95f71db643d1b7cb48f173d984463f011b1bf7a"
     },
     "arm64": {
       "url": "https://github.com/QuickCodeNet/quickcode.cli/releases/download/v1.0.42/quickcode-cli-win-arm64-v1.0.42.zip",
-      "hash": "PLACEHOLDER_ARM64_SHA256"
+      "hash": "bb75e2a395fab72a13b816ea2c4683557def39719999742832ecfe5edcef3393"
     }
   },
   "bin": "quickcode.exe",
