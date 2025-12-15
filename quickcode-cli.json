@@ -1,16 +1,16 @@
 {
-  "version": "1.0.46",
+  "version": "1.0.47",
   "description": "QuickCode API CLI Tool - A .NET 10 console application for managing QuickCode projects from the terminal",
   "homepage": "https://github.com/QuickCodeNet/quickcode.cli",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/QuickCodeNet/quickcode.cli/releases/download/v1.0.46/quickcode-cli-win-x64-v1.0.46.zip",
-      "hash": "9f1e31c39c70c4826f5839fe20dc38d9124896b954360f06363df1ab23bc0a22"
+      "url": "https://github.com/QuickCodeNet/quickcode.cli/releases/download/v1.0.47/quickcode-cli-win-x64-v1.0.47.zip",
+      "hash": "685e968a41c819f1a6313011024a096d9fcae1c92d7d114bf78d2274cbd75c57"
     },
     "arm64": {
-      "url": "https://github.com/QuickCodeNet/quickcode.cli/releases/download/v1.0.46/quickcode-cli-win-arm64-v1.0.46.zip",
-      "hash": "3a8c3a23d14e0235e993fa4ad2d03e02b70ab4d4182ed3460ceda178609ee38b"
+      "url": "https://github.com/QuickCodeNet/quickcode.cli/releases/download/v1.0.47/quickcode-cli-win-arm64-v1.0.47.zip",
+      "hash": "9aec1fe9f05acd878a438791886340faf6906eff71799fdaa9efbd9125e15001"
     }
   },
   "bin": "quickcode.exe",
